@@ -1,0 +1,17 @@
+C:\Users\utilizador\Desktop\TP1\BusinessObjects\bin\Debug\ObjetosNegocio.dll
+C:\Users\utilizador\Desktop\TP1\BusinessObjects\bin\Debug\ObjetosNegocio.pdb
+C:\Users\utilizador\Desktop\TP1\BusinessObjects\obj\Debug\BusinessObjects.csprojAssemblyReference.cache
+C:\Users\utilizador\Desktop\TP1\BusinessObjects\obj\Debug\ObjetosNegocio.dll
+C:\Users\utilizador\Desktop\TP1\BusinessObjects\obj\Debug\ObjetosNegocio.pdb
+C:\Users\Tatiana\Downloads\10946_14887_LP2-master\10946_14887_LP2-master\trabalhoLP2_10946_14887_FaseFinal\trabalhoLP2_10946_14887_FaseFinal\BusinessObjects\bin\Debug\ObjetosNegocio.dll
+C:\Users\Tatiana\Downloads\10946_14887_LP2-master\10946_14887_LP2-master\trabalhoLP2_10946_14887_FaseFinal\trabalhoLP2_10946_14887_FaseFinal\BusinessObjects\bin\Debug\ObjetosNegocio.pdb
+C:\Users\Tatiana\Downloads\10946_14887_LP2-master\10946_14887_LP2-master\trabalhoLP2_10946_14887_FaseFinal\trabalhoLP2_10946_14887_FaseFinal\BusinessObjects\obj\Debug\BusinessObjects.csprojAssemblyReference.cache
+C:\Users\Tatiana\Downloads\10946_14887_LP2-master\10946_14887_LP2-master\trabalhoLP2_10946_14887_FaseFinal\trabalhoLP2_10946_14887_FaseFinal\BusinessObjects\obj\Debug\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Downloads\10946_14887_LP2-master\10946_14887_LP2-master\trabalhoLP2_10946_14887_FaseFinal\trabalhoLP2_10946_14887_FaseFinal\BusinessObjects\obj\Debug\ObjetosNegocio.dll
+C:\Users\Tatiana\Downloads\10946_14887_LP2-master\10946_14887_LP2-master\trabalhoLP2_10946_14887_FaseFinal\trabalhoLP2_10946_14887_FaseFinal\BusinessObjects\obj\Debug\ObjetosNegocio.pdb
+C:\Users\tatia\Downloads\Trabalhos_Tatiana\Trabalhos_Tatiana\Trabalho_C#\BusinessObjects\bin\Debug\ObjetosNegocio.dll
+C:\Users\tatia\Downloads\Trabalhos_Tatiana\Trabalhos_Tatiana\Trabalho_C#\BusinessObjects\bin\Debug\ObjetosNegocio.pdb
+C:\Users\tatia\Downloads\Trabalhos_Tatiana\Trabalhos_Tatiana\Trabalho_C#\BusinessObjects\obj\Debug\BusinessObjects.csprojAssemblyReference.cache
+C:\Users\tatia\Downloads\Trabalhos_Tatiana\Trabalhos_Tatiana\Trabalho_C#\BusinessObjects\obj\Debug\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\tatia\Downloads\Trabalhos_Tatiana\Trabalhos_Tatiana\Trabalho_C#\BusinessObjects\obj\Debug\ObjetosNegocio.dll
+C:\Users\tatia\Downloads\Trabalhos_Tatiana\Trabalhos_Tatiana\Trabalho_C#\BusinessObjects\obj\Debug\ObjetosNegocio.pdb
